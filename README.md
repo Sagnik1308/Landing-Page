@@ -1,1 +1,1 @@
-# Landing-Page
+Created a Landing Page using HTML and CSS and made extensive use of flexbox to position various items and elements on the webpage.
